@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikita672&theme=gitdimmed" alt="mikita672" /></a> </p>
 
-<p align="center">
+
 - 🔭 I’m currently working on [the social network ‘Later'](https://github.com/Better-Then-Never/later)
 
 - 🌱 I’m currently learning **Unreal Engine 5**
@@ -13,7 +13,7 @@
 - 💻 My LeetCode profile [https://leetcode.com/u/9mikita/](https://leetcode.com/u/9mikita/)
 
 - 📫 How to reach me **email: 9mikita@gmail.com or linkedin: https://www.linkedin.com/in/mikita-dzeviatau/**
-</p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -33,6 +33,10 @@
   </a>
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikita672&show_icons=true&locale=en&theme=github_dark_dimmed" alt="mikita672" /></p>
+<h3 align="center">📊 GitHub Stats:</h3>
 
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mikita672&theme=dark&border_radius=3" alt="GitHub Streak" /></a></p>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikita672&show_icons=true&locale=en&theme=github_dark_dimmed" alt="mikita672 stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikita672&layout=compact&theme=github_dark_dimmed" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=mikita672&theme=dark&border_radius=3" alt="GitHub Streak"/>
+</p>
