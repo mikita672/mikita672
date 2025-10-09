@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Unreal Engine 5**
 
-- 💻 My LeetCode profile [https://leetcode.com/u/9mikita/](https://leetcode.com/u/9mikita/)
-
 - 📫 How to reach me **email: 9mikita@gmail.com or linkedin: https://www.linkedin.com/in/mikita-dzeviatau/**
 
 
