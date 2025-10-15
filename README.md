@@ -3,9 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mikita672&label=Profile%20views&color=0e75b6&style=flat" alt="mikita672" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikita672&theme=gitdimmed" alt="mikita672" /></a> </p>
-
-
 - 🔭 I’m currently working on [the social network ‘Later'](https://github.com/Better-Then-Never/later)
 
 - 🌱 I’m currently learning **Unreal Engine 5**
@@ -32,6 +29,8 @@
 </p>
 
 <h3 align="center">📊 GitHub Stats:</h3>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikita672&theme=gitdimmed" alt="mikita672" /></a> </p>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikita672&show_icons=true&locale=en&theme=github_dark_dimmed" alt="mikita672 stats"/>
