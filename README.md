@@ -14,7 +14,6 @@
 <p align="center">
 <a href="https://linkedin.com/in/mikita-dzeviatau" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="mikita-dzeviatau" /></a>
 <a href="https://fb.com/mdzeviatau" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=facebook" alt="mdzeviatau" /></a>
-<a href="https://instagram.com/mikita_dzeviatau" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=instagram" alt="mikita_dzeviatau" /></a>
 <a href="https://www.leetcode.com/9mikita" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" alt="9mikita" /></a>
 <a href="https://discord.gg/mdzvtt" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=discord" alt="mdzvtt" /></a>
 </p>
@@ -29,8 +28,6 @@
 </p>
 
 <h3 align="center">📊 GitHub Stats:</h3>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikita672&theme=gitdimmed" alt="mikita672" /></a> </p>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikita672&show_icons=true&locale=en&theme=github_dark_dimmed" alt="mikita672 stats"/>
