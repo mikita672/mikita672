@@ -22,7 +22,7 @@
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=java,c,cpp,qt,py,nuxtjs,vue,vuetify,pinia,javascript,typescript,dart,flutter,gcp,firebase,supabase,plsql,bash,powershell,figma,gitlab,github,linux,lua,react,arduino,vscode,visualstudio,androidstudio,idea"
+      src="https://go-skill-icons.vercel.app/api/icons?i=java,c,cpp,py,nuxtjs,vue,vuetify,pinia,javascript,typescript,firebase,supabase,plsql,bash,powershell,figma,react,arduino"
     />
   </a>
 </p>
