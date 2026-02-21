@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [the social network ‘Later'](https://github.com/Better-Then-Never/later)
 
-- 🌱 I’m currently learning **Unreal Engine 5**
-
 - 📫 How to reach me **email: 9mikita@gmail.com or linkedin: https://www.linkedin.com/in/mikita-dzeviatau/**
 
 
@@ -22,7 +20,7 @@
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=java,c,cpp,py,nuxtjs,vue,vuetify,pinia,javascript,typescript,firebase,supabase,plsql,bash,powershell,figma,react,arduino"
+      src="https://go-skill-icons.vercel.app/api/icons?i=java,javascript,typescript,spring,nuxtjs,vue,react,mysql,postgresql"
     />
   </a>
 </p>
