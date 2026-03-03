@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=java,javascript,typescript,spring,nuxtjs,vue,react,mysql,postgresql"
+      src="https://go-skill-icons.vercel.app/api/icons?i=java,javascript,typescript,spring,nuxtjs,vue,react,flutter,mysql,postgresql"
     />
   </a>
 </p>
