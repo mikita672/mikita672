@@ -28,11 +28,7 @@
 <h3 align="center">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikita672&theme=gruvbox" alt="Profile details badge"/>
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mikita672&theme=gruvbox" alt="Top languages by repo badge"/>
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mikita672&theme=gruvbox" alt="Top languages by commit badge"/>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikita672&theme=gruvbox" alt="General stats badge"/>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mikita672&theme=gruvbox&utcOffset=8" alt="Commits per day badge"/>
-  <img height="180em" src="https://streak-stats.vercel.app/?user=mikita672&theme=dark" alt="GitHub Streak"/>
 </p>
 
