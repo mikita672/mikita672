@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mikita672&label=Profile%20views&color=0e75b6&style=flat" alt="mikita672" /> </p>
 
-- 🔭 I’m currently working on [the social network ‘Later'](https://github.com/Better-Then-Never/later)
-
 - 📫 How to reach me **email: 9mikita@gmail.com or linkedin: https://www.linkedin.com/in/mikita-dzeviatau/**
 
 
